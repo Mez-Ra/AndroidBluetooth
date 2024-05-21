@@ -22,8 +22,7 @@ This project demonstrates how to build an Android application using the Model-Vi
 
 #### Clone the Repository
 
-```bash
-git clone https://github.com/blah/android-bluetooth
+git clone https://github.com/Mez-Ra/android-bluetooth
 
 
 ### Open the Project in Android Studio
